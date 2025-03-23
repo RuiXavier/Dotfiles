@@ -1,0 +1,79 @@
+2025-03-23 20:44:03.173 [info] Started local extension host with pid 115628.
+2025-03-23 20:44:04.567 [info] Settings Sync: Token updated for the account RuiXavier
+2025-03-23 20:44:04.576 [info] Settings Sync: Account status changed from uninitialized to available
+2025-03-23 20:44:05.815 [info] [perf] Render performance baseline is 15ms
+2025-03-23 20:49:55.827 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:50:01.715 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:50:26.039 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:50:49.672 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:50:52.954 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:51:03.212 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:51:04.826 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:51:35.440 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:51:49.703 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+2025-03-23 20:55:56.361 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-03-23 21:02:10.509 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-03-23 21:02:30.003 [error] Request "Jump to definition" failed.: Error: Request "Jump to definition" failed.
+    at mx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:6:261)
+    at ix0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7099)
+    at gx0 (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:7247)
+    at Immediate.<anonymous> (/home/rx/.vscode/extensions/ocamllabs.ocaml-platform-1.28.2/dist/vscode_ocaml_platform.bc.js:5:6967)
+    at processImmediate (node:internal/timers:483:21)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)

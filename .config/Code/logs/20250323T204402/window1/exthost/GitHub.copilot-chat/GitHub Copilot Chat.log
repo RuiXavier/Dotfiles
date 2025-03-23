@@ -1,0 +1,19 @@
+2025-03-23 20:44:07.138 [info] Using the Electron fetcher.
+2025-03-23 20:44:07.138 [info] Initializing Git extension service.
+2025-03-23 20:44:07.138 [info] Successfully activated the vscode.git extension.
+2025-03-23 20:44:07.138 [info] Enablement state of the vscode.git extension: true.
+2025-03-23 20:44:07.138 [info] Successfully registered Git commit message provider.
+2025-03-23 20:44:08.195 [info] Logged in as RuiXavier
+2025-03-23 20:44:08.775 [info] Got Copilot token for RuiXavier
+2025-03-23 20:44:08.811 [info] copilot token chat_enabled: true, sku: free_educational
+2025-03-23 20:44:08.815 [info] Registering default platform agent...
+2025-03-23 20:44:08.818 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-03-23 20:44:08.818 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-03-23 20:44:08.818 [info] Successfully registered GitHub PR title and description provider.
+2025-03-23 20:44:09.187 [info] Fetched model metadata in 405ms 487b2aef-ca68-4131-9bd2-571d70bc0ac8
+2025-03-23 20:44:09.300 [info] activationBlocker from 'languageModelAccess' took for 2072ms
+2025-03-23 20:55:14.524 [info] Fetched model metadata in 496ms 4b2218cb-becd-416c-9dd7-e36e438011bd
+2025-03-23 20:55:14.849 [info] message 0 returned. finish reason: [stop]
+2025-03-23 20:55:14.850 [info] request done: requestId: [9672e399-32d3-46aa-bc7f-22a1befe7a7d] model deployment ID: []
+2025-03-23 20:55:16.112 [info] message 0 returned. finish reason: [client-trimmed]
+2025-03-23 20:55:16.113 [info] request done: requestId: [f453b3f9-2216-4a66-a7c3-e5367feeadfc] model deployment ID: []

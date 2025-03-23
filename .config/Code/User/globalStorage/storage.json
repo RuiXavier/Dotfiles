@@ -1,0 +1,79 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "aac0db89952aa8e435f7f67e4d28896752eb2d7f2ec8198c1a4e25f160d13da3",
+    "telemetry.devDeviceId": "ac43fc07-6534-4390-a97a-bb70034db26c",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/rx/.config"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 50,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/rx/.config/picom": "__default__profile__",
+            "file:///home/rx/.config/i3": "__default__profile__",
+            "file:///home/rx/.config": "__default__profile__",
+            "file:///home/rx/Desktop/repos/ADC-Investigacao": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1742768613217": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#24273a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cad3f5",
+            "background": "#24273a",
+            "editorBackground": "#24273a",
+            "titleBarBackground": "#181926",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#181926",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#1e2030",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#181926",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#181926",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/rx/.config",
+            "backupPath": "/home/rx/.config/Code/Backups/b6dd6e48edef215cb9dc27c0eaef9e86",
+            "uiState": {
+                "mode": 0,
+                "x": 11,
+                "y": 11,
+                "width": 1898,
+                "height": 1034,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    },
+    "userDataProfiles": [
+        {
+            "location": "-1994cfd4",
+            "name": "LaTeX",
+            "icon": "coffee"
+        }
+    ]
+}

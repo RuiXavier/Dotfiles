@@ -1,0 +1,65 @@
+[Warn  - 8:44:04 PM] failed to poll dune registry.
+Unix.Unix_error(Unix.ENOENT, "stat", "/run/user/1000/dune/rpc")
+Maybe you are not running dune in watch mode?
+Hint: $ dune build -w
+[Info  - 8:44:04 PM] Ocamlformat-RPC server started with PID 115857
+[Error - 8:49:55 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: view
+[Error - 8:49:56 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: view
+[Error - 8:50:01 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:50:26 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:50:49 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:50:52 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:51:03 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:51:04 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: old
+[Error - 8:51:04 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:51:05 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:51:35 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:51:49 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: length
+[Error - 8:55:56 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: x
+[Error - 9:02:10 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: data
+[Error - 9:02:30 PM] Request textDocument/definition failed.
+  Message: Request "Jump to definition" failed.
+  Code: -32803 
+'Locate' query to merlin returned error: not in environment: josephus

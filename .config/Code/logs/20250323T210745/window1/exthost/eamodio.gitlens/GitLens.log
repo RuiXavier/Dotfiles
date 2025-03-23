@@ -1,0 +1,8 @@
+2025-03-23 21:07:49.622 [info] GitLens v16.3.3 activating in Visual Studio Code (1.98.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (aac0db89952aa8e435f7f67e4d28896752eb2d7f2ec8198c1a4e25f160d13da3|ab88835c-18b1-484d-9a2b-f3030bb04bd51742764065486)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-03-23 21:07:50.534 [info] [2025-03-23 21:07:50.531] [GIT    *793ms] [/home/rx/Desktop/repos/ADC-Investigacao] git ls-files -- dblist/dblist.mli [*793ms] (slow)
+[2025-03-23 21:07:50.531] [GIT    *812ms] [/home/rx/Desktop/repos/ADC-Investigacao] git rev-list --max-parents=0 HEAD -- [*812ms] (slow)
+
+2025-03-23 21:07:51.069 [info] [2025-03-23 21:07:50.578] [GIT    *822ms] [/home/rx/Desktop/repos/ADC-Investigacao] git shortlog -s --all --no-merges --since=1.year.ago [*822ms] (slow)
+

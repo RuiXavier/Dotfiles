@@ -1,0 +1,7 @@
+2025-03-23 22:29:28.809 [warning] /home/rx/.ssh/config: ENOENT: no such file or directory, open '/home/rx/.ssh/config'
+2025-03-23 22:29:28.809 [info] [Activation] Extension version: 0.106.0
+2025-03-23 22:29:29.674 [info] [Activation] Looking for git repository
+2025-03-23 22:29:29.674 [info] [Activation] Found 0 repositories during activation
+2025-03-23 22:29:29.674 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-03-23 22:29:29.675 [info] [GitAPI] Registering git provider
+2025-03-23 22:29:29.784 [info] [Activation] Git initialization state changed: state=initialized

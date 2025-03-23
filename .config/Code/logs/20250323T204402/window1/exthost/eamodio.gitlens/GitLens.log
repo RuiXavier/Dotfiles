@@ -1,0 +1,10 @@
+2025-03-23 20:44:07.138 [info] GitLens v16.3.3 activating in Visual Studio Code (1.98.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (aac0db89952aa8e435f7f67e4d28896752eb2d7f2ec8198c1a4e25f160d13da3|b8b711e9-bca4-4d60-acb5-e90c42a864c31742762642878)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-03-23 20:44:08.049 [info] [2025-03-23 20:44:08.046] [GIT    *772ms] [/home/rx/Desktop/repos/ADC-Investigacao] git shortlog -s --all --no-merges --since=1.year.ago [*772ms] (slow)
+[2025-03-23 20:44:08.046] [GIT    *791ms] [/home/rx/Desktop/repos/ADC-Investigacao] git ls-files -- dblist/dblist.mli [*791ms] (slow)
+[2025-03-23 20:44:08.046] [GIT    *809ms] [/home/rx/Desktop/repos/ADC-Investigacao] git rev-list --max-parents=0 HEAD -- [*809ms] (slow)
+
+2025-03-23 20:51:16.652 [info] [2025-03-23 20:51:16.152] [GIT          ] [/usr/lib/ocaml] git rev-parse --show-toplevel • Command failed: /sbin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [18ms]
+
+

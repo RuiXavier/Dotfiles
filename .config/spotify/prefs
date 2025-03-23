@@ -1,0 +1,15 @@
+autologin.username="rxnight"
+autologin.saved_credentials="{\"rxnight\":[\"rxnight\",\"5+56vSP3ZGBId2Oh70oIabOyO6yfkC1ttva/eHdw4mpExaFod1/OXSouREjrpx8BGzXf7xGXdV7vaLY0NRA6ehNWboDcQyK+vHA3Qi3TgtI0j1VETZSsgnTud/8u1CMIUR6u8XR4UzpEoD6u25lpCETgQhiELdRTnW9RN2qeAsPEr9PwA5OkV2UmxkpFhIdly/fCIumGsqtpd6y61HI8GmnWubASMuhtnEDxp+kUQNlSuO/N6h4gxbAG5lUP4146\"]}"
+autologin.canonical_username="rxnight"
+app.window.state.saved=true
+app.window.position.width=1892
+autologin.blob="5+56vSP3ZGBId2Oh70oIabOyO6yfkC1ttva/eHdw4mpExaFod1/OXSouREjrpx8BGzXf7xGXdV7vaLY0NRA6ehNWboDcQyK+vHA3Qi3TgtI0j1VETZSsgnTud/8u1CMIUR6u8XR4UzpEoD6u25lpCETgQhiELdRTnW9RN2qeAsPEr9PwA5OkV2UmxkpFhIdly/fCIumGsqtpd6y61HI8GmnWubASMuhtnEDxp+kUQNlSuO/N6h4gxbAG5lUP4146"
+es.send-on-startup=true
+core.clock_delta=0
+app.window.state=2
+app.window.position.saved=true
+app.window.position.height=1028
+app.window.position.y=14
+storage.last-location="/home/rx/.cache/spotify/Storage"
+app.window.position.x=14
+app.last-launched-version="1.2.59.514.g834e17d4"

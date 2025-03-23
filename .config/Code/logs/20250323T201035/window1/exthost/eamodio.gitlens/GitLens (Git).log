@@ -1,0 +1,14 @@
+2025-03-23 20:10:39.692 [info] [2025-03-23 20:10:39.573] [         64ms] [/home/rx/.config] git rev-parse --show-toplevel • FAILED
+2025-03-23 20:10:39.692 [info] 
+Error: Command failed: /sbin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+2025-03-23 20:10:40.542 [info] [2025-03-23 20:10:40.542] [         43ms] [/home/rx/.config/i3] git rev-parse --show-toplevel • FAILED
+2025-03-23 20:10:40.542 [info] 
+Error: Command failed: /sbin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+

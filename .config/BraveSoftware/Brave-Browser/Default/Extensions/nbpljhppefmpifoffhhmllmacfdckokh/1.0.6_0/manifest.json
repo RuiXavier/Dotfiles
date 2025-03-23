@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "300": "icons/icon300.png",
+         "48": "icons/icon48.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "__MSG_badgeAvailable__"
+   },
+   "author": "Snap color picker",
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "commands": {
+      "activate": {
+         "description": "__MSG_shortcutCommand__",
+         "suggested_key": {
+            "default": "Alt+P"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "300": "icons/icon300.png",
+      "48": "icons/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnK7XdsIvCV1FbP0GAYOIzWdbg+z+PTk8+5sDpMPdXidNC/zb06urPg1RXb0yN3Esg/Ny+eZ3owYxl0LGtZMmHSe3unsKtpcDLaP3X5ncWm+t4ODtlEMTfQYGs1aUgH8uVdJIFYH78qD52nnyIkKVw84bxg7ikyoODzEdf3rMEzrlcdQbxDzNyDwHXFodalNX+YiHfqD2IUyKrU8doMEbazLSbmaFmMxvfu9nsm9YPVIBdXuzkanF6zUHY4RToXZ4XidxjPDBYgpGjXHyRy8CKwHqPeYRHnNYuKHPnRrfbf1HuAzrMN+GwLhKRZim7/lAqCt4WYKbAqNpUDRd7SWhNwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "commands", "scripting", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.6",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/web_accessible_resources/*" ]
+   } ]
+}

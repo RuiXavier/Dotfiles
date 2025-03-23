@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Get the current volume level
+volume=$(pamixer --get-volume)
+
+# Check if the audio is muted
+if pamixer --get-mute | grep -q true; then
+    echo ": ${volume}%"
+else
+    echo ": ${volume}%"
+fi
+
+# Open pavucontrol on clickght click on the Blueman tray icon > Local Services > Transfer > File Receiving (Object Push) and tick the Accept files from trusted devices box.
+if [ "$BLOCK_BUTTON" -eq 1 ]; then
+    pavucontrol &
+fi

@@ -1,0 +1,808 @@
+2025-03-23 21:39:38.912 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-03-23 21:39:38.912 [info] [AutoSync] Enabled.
+2025-03-23 21:39:38.912 [info] [AutoSync] Suspended until auth token is available.
+2025-03-23 21:39:39.943 [info] [AutoSync] Triggered by Interval
+2025-03-23 21:39:39.943 [info] Sync started.
+2025-03-23 21:39:40.292 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:39:40.300 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:39:40.302 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:39:40.304 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:39:40.307 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:39:40.335 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:39:40.338 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:39:40.339 [info] Syncing profile. LaTeX
+2025-03-23 21:39:40.371 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:39:40.374 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:39:40.375 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:39:40.376 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:39:40.384 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:39:40.402 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:39:40.403 [info] Sync done. Took 461ms
+2025-03-23 21:40:46.816 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:40:46.817 [info] Sync started.
+2025-03-23 21:40:46.868 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:40:46.869 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:40:46.870 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:40:46.871 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:40:46.873 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:40:46.899 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:40:46.902 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:40:46.902 [info] Syncing profile. LaTeX
+2025-03-23 21:40:46.903 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:40:46.904 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:40:46.905 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:40:46.906 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:40:46.908 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:40:46.921 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:40:46.923 [info] Sync done. Took 107ms
+2025-03-23 21:45:46.925 [info] [AutoSync] Triggered by Interval
+2025-03-23 21:45:46.925 [info] Sync started.
+2025-03-23 21:45:47.179 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:45:47.181 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:45:47.182 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:45:47.183 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:45:47.186 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:45:47.216 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:45:47.217 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:45:47.217 [info] Syncing profile. LaTeX
+2025-03-23 21:45:47.218 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:45:47.220 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:45:47.220 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:45:47.221 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:45:47.223 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:45:47.238 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:45:47.239 [info] Sync done. Took 315ms
+2025-03-23 21:50:47.241 [info] [AutoSync] Triggered by Interval
+2025-03-23 21:50:47.241 [info] Sync started.
+2025-03-23 21:50:47.451 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:50:47.452 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:50:47.453 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:50:47.454 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:50:47.457 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:50:47.483 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:50:47.486 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:50:47.486 [info] Syncing profile. LaTeX
+2025-03-23 21:50:47.487 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:50:47.488 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:50:47.489 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:50:47.490 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:50:47.491 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:50:47.505 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:50:47.506 [info] Sync done. Took 267ms
+2025-03-23 21:52:43.665 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:52:43.665 [info] Sync started.
+2025-03-23 21:52:43.717 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:52:43.718 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:52:43.719 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:52:43.720 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:52:43.722 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:52:43.750 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:52:43.751 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:52:43.751 [info] Syncing profile. LaTeX
+2025-03-23 21:52:43.752 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:52:43.753 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:52:43.754 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:52:43.755 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:52:43.756 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:52:43.780 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:52:43.781 [info] Sync done. Took 116ms
+2025-03-23 21:53:09.264 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:53:09.264 [info] Sync started.
+2025-03-23 21:53:09.328 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:53:09.329 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:53:09.330 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:53:09.331 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:53:09.334 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:53:09.364 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:53:09.369 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:53:09.369 [info] Syncing profile. LaTeX
+2025-03-23 21:53:09.370 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:53:09.371 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:53:09.372 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:53:09.373 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:53:09.374 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:53:09.387 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:53:09.388 [info] Sync done. Took 125ms
+2025-03-23 21:53:33.792 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:53:33.792 [info] Sync started.
+2025-03-23 21:53:33.869 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:53:33.870 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:53:33.891 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:53:33.892 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:53:33.895 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:53:33.928 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:53:33.929 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:53:33.929 [info] Syncing profile. LaTeX
+2025-03-23 21:53:33.930 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:53:33.931 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:53:33.932 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:53:33.933 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:53:33.934 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:53:33.949 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:53:33.950 [info] Sync done. Took 158ms
+2025-03-23 21:54:04.901 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:54:04.901 [info] Sync started.
+2025-03-23 21:54:04.959 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:54:04.961 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:54:04.962 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:54:04.963 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:54:04.965 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:54:04.992 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:54:04.995 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:54:04.995 [info] Syncing profile. LaTeX
+2025-03-23 21:54:04.996 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:54:04.997 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:54:04.998 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:54:04.999 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:54:05.001 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:54:05.015 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:54:05.016 [info] Sync done. Took 115ms
+2025-03-23 21:54:15.963 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:54:15.964 [info] Sync started.
+2025-03-23 21:54:16.027 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:54:16.029 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:54:16.030 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:54:16.030 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:54:16.033 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:54:16.063 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:54:16.063 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:54:16.064 [info] Syncing profile. LaTeX
+2025-03-23 21:54:16.065 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:54:16.066 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:54:16.067 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:54:16.068 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:54:16.070 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:54:16.085 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:54:16.085 [info] Sync done. Took 123ms
+2025-03-23 21:56:15.975 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:56:15.976 [info] Sync started.
+2025-03-23 21:56:16.037 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:56:16.038 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:56:16.040 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:56:16.040 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:56:16.043 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:56:16.076 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:56:16.079 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:56:16.080 [info] Syncing profile. LaTeX
+2025-03-23 21:56:16.081 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:56:16.082 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:56:16.083 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:56:16.084 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:56:16.085 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:56:16.101 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:56:16.102 [info] Sync done. Took 127ms
+2025-03-23 21:57:02.383 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:57:02.383 [info] Sync started.
+2025-03-23 21:57:02.438 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:57:02.439 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:57:02.440 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:57:02.441 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:57:02.444 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:57:02.466 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:57:02.466 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:57:02.467 [info] Syncing profile. LaTeX
+2025-03-23 21:57:02.468 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:57:02.469 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:57:02.469 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:57:02.470 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:57:02.471 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:57:02.487 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:57:02.487 [info] Sync done. Took 105ms
+2025-03-23 21:57:30.516 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:57:30.516 [info] Sync started.
+2025-03-23 21:57:30.581 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:57:30.583 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:57:30.584 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:57:30.585 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:57:30.588 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:57:30.613 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:57:30.614 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:57:30.614 [info] Syncing profile. LaTeX
+2025-03-23 21:57:30.615 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:57:30.616 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:57:30.617 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:57:30.618 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:57:30.619 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:57:30.634 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:57:30.635 [info] Sync done. Took 119ms
+2025-03-23 21:57:44.555 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:57:44.555 [info] Sync started.
+2025-03-23 21:57:44.609 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:57:44.610 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:57:44.611 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:57:44.612 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:57:44.615 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:57:44.641 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:57:44.642 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:57:44.642 [info] Syncing profile. LaTeX
+2025-03-23 21:57:44.643 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:57:44.644 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:57:44.645 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:57:44.646 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:57:44.648 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:57:44.662 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:57:44.663 [info] Sync done. Took 109ms
+2025-03-23 21:58:05.100 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:58:05.100 [info] Sync started.
+2025-03-23 21:58:05.154 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:58:05.155 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:58:05.156 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:58:05.157 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:58:05.161 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:58:05.182 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:58:05.183 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:58:05.183 [info] Syncing profile. LaTeX
+2025-03-23 21:58:05.184 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:58:05.185 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:58:05.185 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:58:05.186 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:58:05.188 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:58:05.201 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:58:05.202 [info] Sync done. Took 103ms
+2025-03-23 21:58:17.635 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:58:17.635 [info] Sync started.
+2025-03-23 21:58:17.693 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:58:17.695 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:58:17.697 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:58:17.699 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:58:17.702 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:58:17.741 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:58:17.741 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:58:17.742 [info] Syncing profile. LaTeX
+2025-03-23 21:58:17.743 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:58:17.744 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:58:17.745 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:58:17.746 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:58:17.748 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:58:17.767 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:58:17.767 [info] Sync done. Took 132ms
+2025-03-23 21:58:33.350 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:58:33.350 [info] Sync started.
+2025-03-23 21:58:33.408 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:58:33.409 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:58:33.410 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:58:33.411 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:58:33.414 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:58:33.439 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:58:33.440 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:58:33.443 [info] Syncing profile. LaTeX
+2025-03-23 21:58:33.444 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:58:33.445 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:58:33.446 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:58:33.447 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:58:33.448 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:58:33.465 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:58:33.466 [info] Sync done. Took 116ms
+2025-03-23 21:59:23.008 [info] [AutoSync] Triggered by Activity
+2025-03-23 21:59:23.009 [info] Sync started.
+2025-03-23 21:59:23.059 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 21:59:23.060 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 21:59:23.061 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 21:59:23.062 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 21:59:23.065 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 21:59:23.090 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 21:59:23.090 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 21:59:23.091 [info] Syncing profile. LaTeX
+2025-03-23 21:59:23.092 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 21:59:23.093 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 21:59:23.094 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 21:59:23.094 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 21:59:23.096 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 21:59:23.109 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 21:59:23.110 [info] Sync done. Took 103ms
+2025-03-23 22:00:24.057 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:00:24.057 [info] Sync started.
+2025-03-23 22:00:24.115 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:00:24.116 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:00:24.117 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:00:24.118 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:00:24.121 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:00:24.145 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:00:24.145 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:00:24.146 [info] Syncing profile. LaTeX
+2025-03-23 22:00:24.149 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:00:24.150 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:00:24.151 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:00:24.152 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:00:24.153 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:00:24.170 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:00:24.170 [info] Sync done. Took 114ms
+2025-03-23 22:00:44.898 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:00:44.898 [info] Sync started.
+2025-03-23 22:00:44.953 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:00:44.954 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:00:44.955 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:00:44.957 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:00:44.959 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:00:44.981 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:00:44.982 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:00:44.982 [info] Syncing profile. LaTeX
+2025-03-23 22:00:44.983 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:00:44.984 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:00:44.985 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:00:44.986 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:00:44.987 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:00:45.001 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:00:45.001 [info] Sync done. Took 104ms
+2025-03-23 22:02:07.892 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:02:07.892 [info] Sync started.
+2025-03-23 22:02:07.948 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:02:07.950 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:02:07.951 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:02:07.952 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:02:08.667 [info] GlobalState: Updated remote ui state. Updated: extension.features.state.
+2025-03-23 22:02:08.669 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 22:02:08.699 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:02:08.701 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:02:08.702 [info] Syncing profile. LaTeX
+2025-03-23 22:02:08.703 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:02:08.704 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:02:08.704 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:02:08.705 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:02:08.707 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:02:08.721 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:02:08.723 [info] Sync done. Took 831ms
+2025-03-23 22:02:11.368 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:02:11.368 [info] Sync started.
+2025-03-23 22:02:11.427 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:02:11.429 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:02:11.430 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:02:11.431 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:02:12.160 [info] GlobalState: Updated remote ui state. Updated: extension.features.state.
+2025-03-23 22:02:12.162 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 22:02:12.188 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:02:12.189 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:02:12.189 [info] Syncing profile. LaTeX
+2025-03-23 22:02:12.190 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:02:12.191 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:02:12.192 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:02:12.193 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:02:12.194 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:02:12.208 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:02:12.208 [info] Sync done. Took 840ms
+2025-03-23 22:02:54.903 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:02:54.903 [info] Sync started.
+2025-03-23 22:02:54.967 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:02:54.968 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:02:54.969 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:02:54.971 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:02:54.973 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:02:55.000 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:02:55.001 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:02:55.002 [info] Syncing profile. LaTeX
+2025-03-23 22:02:55.002 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:02:55.003 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:02:55.004 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:02:55.005 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:02:55.006 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:02:55.020 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:02:55.020 [info] Sync done. Took 117ms
+2025-03-23 22:03:05.117 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:03:05.118 [info] Sync started.
+2025-03-23 22:03:05.178 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:03:05.179 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:03:05.180 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:03:05.181 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:03:05.184 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:03:05.209 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:03:05.209 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:03:05.210 [info] Syncing profile. LaTeX
+2025-03-23 22:03:05.211 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:03:05.212 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:03:05.213 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:03:05.214 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:03:05.215 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:03:05.230 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:03:05.230 [info] Sync done. Took 114ms
+2025-03-23 22:03:20.308 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:03:20.308 [info] Sync started.
+2025-03-23 22:03:20.362 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:03:20.363 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:03:20.365 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:03:20.367 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:03:20.371 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:03:20.396 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:03:20.397 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:03:20.397 [info] Syncing profile. LaTeX
+2025-03-23 22:03:20.398 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:03:20.400 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:03:20.400 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:03:20.401 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:03:20.403 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:03:20.421 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:03:20.421 [info] Sync done. Took 114ms
+2025-03-23 22:03:36.805 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:03:36.805 [info] Sync started.
+2025-03-23 22:03:36.876 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:03:36.877 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:03:36.878 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:03:36.879 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:03:36.881 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:03:36.906 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:03:36.908 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:03:36.908 [info] Syncing profile. LaTeX
+2025-03-23 22:03:36.909 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:03:36.910 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:03:36.911 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:03:36.912 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:03:36.913 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:03:36.926 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:03:36.927 [info] Sync done. Took 123ms
+2025-03-23 22:03:58.401 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:03:58.401 [info] Sync started.
+2025-03-23 22:03:58.496 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:03:58.497 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:03:58.498 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:03:58.499 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:03:58.501 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:03:58.523 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:03:58.524 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:03:58.524 [info] Syncing profile. LaTeX
+2025-03-23 22:03:58.525 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:03:58.526 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:03:58.527 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:03:58.529 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:03:58.530 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:03:58.545 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:03:58.545 [info] Sync done. Took 145ms
+2025-03-23 22:07:21.026 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:07:21.026 [info] Sync started.
+2025-03-23 22:07:21.230 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:07:21.232 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:07:21.233 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:07:21.234 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:07:21.236 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:07:21.269 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:07:21.269 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:07:21.270 [info] Syncing profile. LaTeX
+2025-03-23 22:07:21.271 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:07:21.272 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:07:21.273 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:07:21.274 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:07:21.275 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:07:21.292 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:07:21.292 [info] Sync done. Took 267ms
+2025-03-23 22:12:18.494 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:12:18.494 [info] Sync started.
+2025-03-23 22:12:18.702 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:12:18.703 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:12:18.704 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:12:18.705 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:12:18.708 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:12:18.735 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:12:18.738 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:12:18.738 [info] Syncing profile. LaTeX
+2025-03-23 22:12:18.739 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:12:18.740 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:12:18.741 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:12:18.742 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:12:18.743 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:12:18.758 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:12:18.759 [info] Sync done. Took 265ms
+2025-03-23 22:12:48.558 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:12:48.559 [info] Sync started.
+2025-03-23 22:12:48.622 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:12:48.623 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:12:48.624 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:12:48.625 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:12:49.363 [info] GlobalState: Updated remote ui state. Updated: extension.features.state.
+2025-03-23 22:12:49.365 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 22:12:49.397 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:12:49.398 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:12:49.398 [info] Syncing profile. LaTeX
+2025-03-23 22:12:49.399 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:12:49.401 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:12:49.402 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:12:49.403 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:12:49.405 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:12:49.425 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:12:49.426 [info] Sync done. Took 869ms
+2025-03-23 22:12:52.072 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:12:52.073 [info] Sync started.
+2025-03-23 22:12:52.143 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:12:52.144 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:12:52.145 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:12:52.146 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:12:52.694 [info] GlobalState: Updated remote ui state. Updated: extension.features.state.
+2025-03-23 22:12:52.696 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 22:12:52.726 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:12:52.729 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:12:52.730 [info] Syncing profile. LaTeX
+2025-03-23 22:12:52.730 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:12:52.732 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:12:52.733 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:12:52.733 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:12:52.735 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:12:52.748 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:12:52.749 [info] Sync done. Took 676ms
+2025-03-23 22:14:09.224 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:14:09.224 [info] Sync started.
+2025-03-23 22:14:09.283 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:14:09.284 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:14:09.285 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:14:09.286 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:14:09.289 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:14:09.314 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:14:09.318 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:14:09.318 [info] Syncing profile. LaTeX
+2025-03-23 22:14:09.319 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:14:09.321 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:14:09.322 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:14:09.323 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:14:09.325 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:14:09.339 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:14:09.340 [info] Sync done. Took 116ms
+2025-03-23 22:14:32.779 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:14:32.779 [info] Sync started.
+2025-03-23 22:14:32.849 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:14:32.850 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:14:32.851 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:14:32.852 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:14:32.855 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:14:32.885 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:14:32.886 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:14:32.886 [info] Syncing profile. LaTeX
+2025-03-23 22:14:32.887 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:14:32.888 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:14:32.889 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:14:32.890 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:14:32.892 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:14:32.905 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:14:32.906 [info] Sync done. Took 128ms
+2025-03-23 22:14:48.712 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:14:48.713 [info] Sync started.
+2025-03-23 22:14:48.777 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:14:48.778 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:14:48.779 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:14:48.780 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:14:48.783 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:14:48.808 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:14:48.808 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:14:48.809 [info] Syncing profile. LaTeX
+2025-03-23 22:14:48.810 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:14:48.811 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:14:48.812 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:14:48.813 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:14:48.814 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:14:48.829 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:14:48.830 [info] Sync done. Took 117ms
+2025-03-23 22:15:49.236 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:15:49.236 [info] Sync started.
+2025-03-23 22:15:49.307 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:15:49.308 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:15:49.310 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:15:49.311 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:15:49.314 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:15:49.339 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:15:49.340 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:15:49.340 [info] Syncing profile. LaTeX
+2025-03-23 22:15:49.341 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:15:49.342 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:15:49.343 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:15:49.344 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:15:49.346 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:15:49.363 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:15:49.364 [info] Sync done. Took 128ms
+2025-03-23 22:16:36.777 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:16:36.777 [info] Sync started.
+2025-03-23 22:16:36.843 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:16:36.844 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:16:36.845 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:16:36.846 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:16:36.849 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:16:36.878 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:16:36.879 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:16:36.879 [info] Syncing profile. LaTeX
+2025-03-23 22:16:36.880 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:16:36.881 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:16:36.882 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:16:36.883 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:16:36.885 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:16:36.900 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:16:36.901 [info] Sync done. Took 125ms
+2025-03-23 22:17:45.195 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:17:45.195 [info] Sync started.
+2025-03-23 22:17:45.272 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:17:45.274 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:17:45.275 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:17:45.275 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:17:45.278 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:17:45.306 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:17:45.308 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:17:45.309 [info] Syncing profile. LaTeX
+2025-03-23 22:17:45.309 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:17:45.310 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:17:45.311 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:17:45.312 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:17:45.313 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:17:45.328 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:17:45.329 [info] Sync done. Took 134ms
+2025-03-23 22:18:08.726 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:18:08.726 [info] Sync started.
+2025-03-23 22:18:08.781 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:18:08.782 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:18:08.783 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:18:08.784 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:18:08.787 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:18:08.812 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:18:08.813 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:18:08.816 [info] Syncing profile. LaTeX
+2025-03-23 22:18:08.818 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:18:08.819 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:18:08.820 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:18:08.821 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:18:08.822 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:18:08.840 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:18:08.841 [info] Sync done. Took 115ms
+2025-03-23 22:18:47.053 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:18:47.053 [info] Sync started.
+2025-03-23 22:18:47.107 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:18:47.109 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:18:47.110 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:18:47.111 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:18:47.695 [info] GlobalState: Updated remote ui state. Updated: extension.features.state.
+2025-03-23 22:18:47.697 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 22:18:47.726 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:18:47.727 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:18:47.727 [info] Syncing profile. LaTeX
+2025-03-23 22:18:47.728 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:18:47.729 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:18:47.730 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:18:47.731 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:18:47.732 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:18:47.747 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:18:47.748 [info] Sync done. Took 696ms
+2025-03-23 22:18:50.903 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:18:50.903 [info] Sync started.
+2025-03-23 22:18:50.959 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:18:50.960 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:18:50.962 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:18:50.963 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:18:51.602 [info] GlobalState: Updated remote ui state. Updated: extension.features.state.
+2025-03-23 22:18:51.604 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 22:18:51.629 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:18:51.629 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:18:51.630 [info] Syncing profile. LaTeX
+2025-03-23 22:18:51.631 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:18:51.632 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:18:51.632 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:18:51.633 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:18:51.634 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:18:51.646 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:18:51.648 [info] Sync done. Took 746ms
+2025-03-23 22:19:19.778 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:19:19.779 [info] Sync started.
+2025-03-23 22:19:19.845 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:19:19.846 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:19:19.848 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:19:19.850 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:19:19.853 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:19:19.879 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:19:19.882 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:19:19.883 [info] Syncing profile. LaTeX
+2025-03-23 22:19:19.884 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:19:19.885 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:19:19.886 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:19:19.886 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:19:19.888 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:19:19.901 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:19:19.901 [info] Sync done. Took 124ms
+2025-03-23 22:20:57.845 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:20:57.845 [info] Sync started.
+2025-03-23 22:20:57.904 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:20:57.905 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:20:57.906 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:20:57.907 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:20:57.910 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:20:57.935 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:20:57.935 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:20:57.936 [info] Syncing profile. LaTeX
+2025-03-23 22:20:57.937 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:20:57.938 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:20:57.939 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:20:57.940 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:20:57.941 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:20:57.955 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:20:57.956 [info] Sync done. Took 111ms
+2025-03-23 22:22:07.364 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:22:07.364 [info] Sync started.
+2025-03-23 22:22:07.440 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:22:07.441 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:22:07.442 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:22:07.443 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:22:07.446 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:22:07.471 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:22:07.472 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:22:07.472 [info] Syncing profile. LaTeX
+2025-03-23 22:22:07.473 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:22:07.474 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:22:07.475 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:22:07.475 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:22:07.477 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:22:07.490 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:22:07.491 [info] Sync done. Took 127ms
+2025-03-23 22:22:26.865 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:22:26.865 [info] Sync started.
+2025-03-23 22:22:26.918 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:22:26.919 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:22:26.921 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:22:26.922 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:22:26.925 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:22:26.949 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:22:26.950 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:22:26.950 [info] Syncing profile. LaTeX
+2025-03-23 22:22:26.951 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:22:26.953 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:22:26.953 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:22:26.954 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:22:26.955 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:22:26.967 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:22:26.968 [info] Sync done. Took 104ms
+2025-03-23 22:23:18.459 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:23:18.460 [info] Sync started.
+2025-03-23 22:23:18.523 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:23:18.524 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:23:18.525 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:23:18.526 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:23:18.529 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:23:18.554 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:23:18.555 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:23:18.555 [info] Syncing profile. LaTeX
+2025-03-23 22:23:18.556 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:23:18.557 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:23:18.558 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:23:18.559 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:23:18.560 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:23:18.572 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:23:18.572 [info] Sync done. Took 114ms
+2025-03-23 22:23:33.634 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:23:33.634 [info] Sync started.
+2025-03-23 22:23:33.701 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:23:33.703 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:23:33.708 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:23:33.709 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:23:33.712 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:23:33.739 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:23:33.743 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:23:33.743 [info] Syncing profile. LaTeX
+2025-03-23 22:23:33.749 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:23:33.760 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:23:33.789 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:23:33.802 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:23:33.832 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:23:33.848 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:23:33.848 [info] Sync done. Took 215ms
+2025-03-23 22:24:49.900 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:24:49.900 [info] Sync started.
+2025-03-23 22:24:49.954 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:24:49.955 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:24:49.956 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:24:49.956 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:24:49.959 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:24:49.984 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:24:49.985 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:24:49.985 [info] Syncing profile. LaTeX
+2025-03-23 22:24:49.986 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:24:49.987 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:24:49.988 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:24:49.988 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:24:49.990 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:24:50.002 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:24:50.003 [info] Sync done. Took 103ms
+2025-03-23 22:25:35.829 [info] [AutoSync] Triggered by Activity
+2025-03-23 22:25:35.829 [info] Sync started.
+2025-03-23 22:25:35.879 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 22:25:35.880 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 22:25:35.881 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 22:25:35.882 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 22:25:35.886 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 22:25:35.915 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 22:25:35.919 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 22:25:35.920 [info] Syncing profile. LaTeX
+2025-03-23 22:25:35.920 [info] Settings (LaTeX): No changes found during synchronizing settings.
+2025-03-23 22:25:35.921 [info] Keybindings (LaTeX): No changes found during synchronizing keybindings.
+2025-03-23 22:25:35.922 [info] Snippets (LaTeX): No changes found during synchronizing snippets.
+2025-03-23 22:25:35.923 [info] Tasks (LaTeX): No changes found during synchronizing tasks.
+2025-03-23 22:25:35.924 [info] GlobalState (LaTeX): No changes found during synchronizing ui state.
+2025-03-23 22:25:35.939 [info] Extensions (LaTeX): No changes found during synchronizing extensions.
+2025-03-23 22:25:35.940 [info] Sync done. Took 112ms

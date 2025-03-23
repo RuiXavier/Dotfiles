@@ -1,0 +1,44 @@
+2025-03-23 21:39:42.623 [info] Using the Electron fetcher.
+2025-03-23 21:39:42.623 [info] Initializing Git extension service.
+2025-03-23 21:39:42.623 [info] Successfully activated the vscode.git extension.
+2025-03-23 21:39:42.623 [info] Enablement state of the vscode.git extension: true.
+2025-03-23 21:39:42.623 [info] Successfully registered Git commit message provider.
+2025-03-23 21:39:43.632 [info] Logged in as RuiXavier
+2025-03-23 21:39:44.251 [info] Got Copilot token for RuiXavier
+2025-03-23 21:39:44.291 [info] copilot token chat_enabled: true, sku: free_educational
+2025-03-23 21:39:44.293 [info] Registering default platform agent...
+2025-03-23 21:39:44.297 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-03-23 21:39:44.297 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-03-23 21:39:44.297 [info] Successfully registered GitHub PR title and description provider.
+2025-03-23 21:39:44.660 [info] Fetched model metadata in 401ms 78480cc8-1144-42e3-a4cf-0243838a649b
+2025-03-23 21:39:44.762 [info] activationBlocker from 'languageModelAccess' took for 2069ms
+2025-03-23 21:53:37.050 [info] Using the Electron fetcher.
+2025-03-23 21:53:37.050 [info] Initializing Git extension service.
+2025-03-23 21:53:37.050 [info] Successfully activated the vscode.git extension.
+2025-03-23 21:53:37.050 [info] Enablement state of the vscode.git extension: true.
+2025-03-23 21:53:37.050 [info] Successfully registered Git commit message provider.
+2025-03-23 21:53:38.172 [info] Logged in as RuiXavier
+2025-03-23 21:53:38.723 [info] Got Copilot token for RuiXavier
+2025-03-23 21:53:38.761 [info] copilot token chat_enabled: true, sku: free_educational
+2025-03-23 21:53:38.766 [info] Registering default platform agent...
+2025-03-23 21:53:38.767 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-03-23 21:53:38.767 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-03-23 21:53:38.767 [info] Successfully registered GitHub PR title and description provider.
+2025-03-23 21:53:39.115 [info] Fetched model metadata in 385ms 81d01e7a-f118-47ba-83f9-be63023db47f
+2025-03-23 21:53:39.224 [info] activationBlocker from 'languageModelAccess' took for 1260ms
+2025-03-23 22:02:07.617 [info] message 0 returned. finish reason: [stop]
+2025-03-23 22:02:07.617 [info] request done: requestId: [f1c1682a-5438-409b-b049-87c21f06dbf2] model deployment ID: []
+2025-03-23 22:02:08.798 [info] message 0 returned. finish reason: [stop]
+2025-03-23 22:02:08.798 [info] request done: requestId: [2ef00574-e299-4f74-a255-835abd6e9442] model deployment ID: []
+2025-03-23 22:12:47.707 [info] Fetched model metadata in 521ms 7978ab27-7aa3-4abf-996f-9e5f12394008
+2025-03-23 22:12:48.293 [info] message 0 returned. finish reason: [stop]
+2025-03-23 22:12:48.293 [info] request done: requestId: [69f81f7d-9695-479f-a7f9-dca624691a56] model deployment ID: []
+2025-03-23 22:12:50.515 [info] message 0 returned. finish reason: [client-trimmed]
+2025-03-23 22:12:50.515 [info] request done: requestId: [f70123bf-da28-4fd5-b491-35cdf3aec832] model deployment ID: []
+2025-03-23 22:18:45.520 [info] Logged in as RuiXavier
+2025-03-23 22:18:46.139 [info] Got Copilot token for RuiXavier
+2025-03-23 22:18:46.148 [info] copilot token chat_enabled: true, sku: free_educational
+2025-03-23 22:18:46.780 [info] message 0 returned. finish reason: [stop]
+2025-03-23 22:18:46.781 [info] request done: requestId: [6601f37d-2c33-4663-917e-dc6bdebddd5e] model deployment ID: []
+2025-03-23 22:18:49.788 [info] message 0 returned. finish reason: [stop]
+2025-03-23 22:18:49.789 [info] request done: requestId: [0a567bc6-8717-48f8-832a-01a1ed48dab8] model deployment ID: []

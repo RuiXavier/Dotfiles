@@ -1,0 +1,30 @@
+$ /sbin/opam --version
+$ /sbin/opam --version
+$ /sbin/opam --version
+2.3.0
+
+$ /sbin/opam var --global root
+2.3.0
+
+$ /sbin/opam var --global root
+2.3.0
+
+$ /sbin/opam var --global root
+/home/rx/.opam
+/home/rx/.opam
+/home/rx/.opam
+
+$ /sbin/opam switch show --root /home/rx/.opam
+
+
+adc
+
+$ /sbin/opam switch show --root /home/rx/.opam
+adc
+
+$ /sbin/opam exec --switch=adc --set-switch --root /home/rx/.opam -- ocamlc --version
+5.3.0
+
+$ /sbin/opam exec --switch=adc --set-switch --root /home/rx/.opam -- ocamllsp --version
+1.22.0
+

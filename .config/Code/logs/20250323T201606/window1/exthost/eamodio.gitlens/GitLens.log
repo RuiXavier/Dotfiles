@@ -1,9 +1,0 @@
-2025-03-23 20:16:11.078 [info] GitLens v16.3.3 activating in Visual Studio Code (1.98.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (aac0db89952aa8e435f7f67e4d28896752eb2d7f2ec8198c1a4e25f160d13da3|89af64b5-a34d-4511-be95-1afe235a9ec81742760967123)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
-2025-03-23 20:16:11.901 [info] [2025-03-23 20:16:10.952] [GIT          ] [/home/rx/.config] git rev-parse --show-toplevel • Command failed: /sbin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [77ms]
-
-
-2025-03-23 20:16:12.409 [info] [2025-03-23 20:16:12.034] [GIT          ] [/home/rx/.config/i3] git rev-parse --show-toplevel • Command failed: /sbin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [100ms]
-
-

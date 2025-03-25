@@ -23,6 +23,15 @@ font pango:Proxima Nova 12
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 
+# Auto Start brightness at 50
+exec --no-startup-id brightnessctl set 50%
+
+# Auto Start volume at 0
+exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ 0%
+
+# Auto Start mute volume
+exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ 1
+
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
@@ -34,7 +43,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id ~/.config/i3/scripts/wallpapers.sh
 
 #Redshift start-up
-exec --no-startup-id redshift -l 38.72:-9.14 -t 1000:6500 -b 1.0:0.8 -g 1.0
+exec --no-startup-id ~/.config/i3/scripts/redshift.sh
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.E
@@ -45,6 +54,8 @@ exec --no-startup-id xrandr --output DP-1 --above HDMI-1 && xrandr --output DP-2
 # exec --no-startup-id xrandr --output HDMI-1 --left-of DP-2 && xrandr --output DP-1 --above HDMI-1 && feh --bg-scale ~/wallpapers/streetsig.jpg  
 exec --no-startup-id xrandr --output DP-2 --primary
 
+# start clipboard manager
+exec --no-startup-id greenclip daemon
 
 # Set background
 # exec --no-startup-id feh --bg-scale ~/.config/nvim/wallpapers/wallpaper1.jpg
@@ -59,12 +70,17 @@ floating_modifier $mod
 #Lock screen
 bindsym $mod+l exec --no-startup-id (magick /home/rx/Images/wallpapers/blackandwhite.jpg -resize 1920x1080^ -gravity center -crop 1920x1080+0+0 +repage RGB:- | i3lock --raw=1920x1080:rgb --image /dev/stdin)
 
-
 # start a terminal
 bindsym $mod+t exec --no-startup-id kitty
 
 # kill focused window
 bindsym $mod+q kill
+
+# Open clipboard history
+bindsym $mod+v exec --no-startup-id rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
+
+# Clear clipboard history
+bindsym $mod+Shift+v exec --no-startup-id ~/.config/i3/scripts/greenclip.sh
 
 # start rofi
 bindsym $mod+a exec --no-startup-id rofi -show drun -font 'Hack 11'
@@ -88,10 +104,10 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+h split h
+bindsym $mod+Alt+h split h
 
 # split in vertical orientation
-bindsym $mod+v split v
+bindsym $mod+Alt+v split v
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
@@ -115,16 +131,16 @@ bindsym $mod+p focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
+set $ws1 "1 󰖟"
+set $ws2 "2 "
+set $ws3 "3 "
 set $ws4 "4"
 set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
-set $ws10 "10"
+set $ws10 "10 󰓇"
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
@@ -136,7 +152,8 @@ bindsym $mod+6 workspace number $ws6
 bindsym $mod+7 workspace number $ws7
 bindsym $mod+8 workspace number $ws8
 bindsym $mod+9 workspace number $ws9
-bindsym $mod+0 workspace number $ws10
+# Use mod + \ to switch to workspace 10
+bindsym $mod+backslash workspace number $ws10
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
@@ -271,9 +288,6 @@ client.urgent            $text     $base $text  $love      $love
 client.placeholder       $base     $base $text  $overlay   $overlay
 client.background        $base
 
-# disables title bar
-# nothing atm
-
 # borders
 default_border pixel 3
 gaps outer 3
@@ -281,10 +295,12 @@ gaps inner 8
 
 # bar (completely yoinked from https://github.com/jifuwater/Cattendeavour/blob/main/i3/config)
 bar {
-	font pango: FiraCode Nerd Font medium 10
+	font pango: FiraCode Nerd Font medium 15
     status_command i3blocks -c ~/.config/i3/i3blocks.conf
     position bottom
     i3bar_command i3bar --transparency
+    workspace_buttons yes
+    workspace_min_width 60
     colors {
 		    separator          $pink
 		  #  background         $darkgrey
@@ -309,3 +325,10 @@ exec_always --no-startup-id xset s 0 0
 #exec --no-startup-id i3-msg 'workspace 3; exec kitty -d ~/Code/WebDev/noai-blog/ --hold sh -c ". env/bin/activate && nvim"'
 #exec --no-startup-id i3-msg 'workspace 4; exec kitty -d ~/Code/WebDev/noai-blog/ --hold sh -c "docker compose up -w --build"'
 #exec --no-startup-id i3-msg 'workspace 4; exec kitty -d ~/Code/WebDev/noai-blog/'
+
+#Make certain apps open on certain workspaces
+assign [class="Brave-browser"] $ws1
+assign [class="kitty"] $ws2
+assign [class="Code"] $ws3
+assign [class="Spotify"] $ws10
+

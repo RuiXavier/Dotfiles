@@ -1,0 +1,49 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="3" l="1742773136600" />
+    </e>
+    <e n="EditorCopy">
+      <i c="7" l="1742773420590" />
+    </e>
+    <e n="EditorEnter">
+      <i c="4" l="1742773557819" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1742773550448" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1742773585670" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1742773487225" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="2" l="1742773379908" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1742773114552" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1742773211766" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1742773545230" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1742773594586" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1742773588631" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="6" l="1742773578092" />
+    </e>
+    <e n="com.intellij.profiler.ui.ExpandablePanel$MyCollapseAction">
+      <i c="1" l="1742773561811" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="4" l="1742773590057" />
+    </e>
+  </component>
+</application>

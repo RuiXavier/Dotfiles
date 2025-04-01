@@ -88,6 +88,9 @@ bindsym $mod+a exec --no-startup-id rofi -show drun -font 'Hack 11'
 #start brave
 bindsym $mod+b exec --no-startup-id brave
 
+#start vscode
+bindsym $mod+c exec --no-startup-id code
+
 # open power menu
 bindsym $mod+Escape exec ~/.config/i3/scripts/powermenu
 
@@ -139,7 +142,7 @@ set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
-set $ws9 "9"
+set $ws9 "9 󰙯"
 set $ws10 "10 󰓇"
 
 # switch to workspace
@@ -330,5 +333,6 @@ exec_always --no-startup-id xset s 0 0
 assign [class="Brave-browser"] $ws1
 assign [class="kitty"] $ws2
 assign [class="Code"] $ws3
+assign [class="vesktop"] $ws9
 assign [class="Spotify"] $ws10
 

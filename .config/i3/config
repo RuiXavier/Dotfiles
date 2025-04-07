@@ -57,11 +57,15 @@ exec --no-startup-id xrandr --output DP-2 --primary
 # start clipboard manager
 exec --no-startup-id greenclip daemon
 
+# Turn on numlock on startup
+exec --no-startup-id numlockx on
+
 # Set background
 # exec --no-startup-id feh --bg-scale ~/.config/nvim/wallpapers/wallpaper1.jpg
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
+
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
 # Use Mouse+$mod to drag floating windows to their wanted position
